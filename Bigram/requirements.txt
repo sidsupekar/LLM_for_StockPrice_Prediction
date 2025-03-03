@@ -3,5 +3,3 @@ pandas
 numpy
 matplotlib
 random
-torch.nn.functional
-math
